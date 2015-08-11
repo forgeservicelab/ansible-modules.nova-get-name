@@ -6,7 +6,7 @@ Gets the Nova name of an instance from within itself by querying the metadata se
 License
 -------
 
-GPLv3
+MIT
 
 Author Information
 ------------------
